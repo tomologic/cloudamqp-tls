@@ -1,0 +1,224 @@
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.441 GMT|SSLContextImpl.java:1133|init keystore
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.442 GMT|SSLContextImpl.java:1156|init keymanager of type SunX509
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.444 GMT|SSLContextImpl.java:115|trigger seeding of SecureRandom
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.445 GMT|SSLContextImpl.java:119|done seeding of SecureRandom
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.483 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_AES_128_GCM_SHA256
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.483 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_AES_256_GCM_SHA384
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.483 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_CHACHA20_POLY1305_SHA256
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.486 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.487 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.487 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.487 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.488 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: SSL_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.488 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: SSL_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.488 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.488 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.488 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.489 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.489 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.489 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.490 GMT|SSLContextImpl.java:409|Ignore disabled cipher suite: SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.490 GMT|SSLContextImpl.java:418|Ignore unsupported cipher suite: SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.491 GMT|SSLContextImpl.java:115|trigger seeding of SecureRandom
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.492 GMT|SSLContextImpl.java:119|done seeding of SecureRandom
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.620 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.620 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.621 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.621 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.621 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.621 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.621 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_GCM_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.622 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_128_GCM_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.623 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLS11
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.624 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.625 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.625 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.625 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.625 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_GCM_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.626 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_128_GCM_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.627 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.628 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.628 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.628 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.628 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLS10
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.628 GMT|HandshakeContext.java:294|Ignore unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLS10
+javax.net.ssl|WARNING|01|main|2019-06-12 10:11:13.672 GMT|SignatureScheme.java:282|Signature algorithm, ed25519, is not supported by the underlying providers
+javax.net.ssl|WARNING|01|main|2019-06-12 10:11:13.672 GMT|SignatureScheme.java:282|Signature algorithm, ed448, is not supported by the underlying providers
+javax.net.ssl|ALL|01|main|2019-06-12 10:11:13.679 GMT|SignatureScheme.java:358|Ignore disabled signature scheme: rsa_md5
+javax.net.ssl|INFO|01|main|2019-06-12 10:11:13.680 GMT|AlpnExtension.java:161|No available application protocols
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.680 GMT|SSLExtensions.java:257|Ignore, context unavailable extension: application_layer_protocol_negotiation
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.682 GMT|SSLExtensions.java:257|Ignore, context unavailable extension: renegotiation_info
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.684 GMT|ClientHello.java:653|Produced ClientHello handshake message (
+"ClientHello": {
+  "client version"      : "TLSv1.2",
+  "random"              : "C1 A3 C6 BD 13 FD 1E 7C C4 AC EB 48 65 0F 64 C6 9D 9C 53 A8 D3 0B 22 DA 8A 7F BC 26 2D 2F 1C 1A",
+  "session id"          : "",
+  "cipher suites"       : "[TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384(0xC02C), TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256(0xC02B), TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256(0xCCA9), TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384(0xC030), TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256(0xCCA8), TLS_RSA_WITH_AES_256_GCM_SHA384(0x009D), TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384(0xC02E), TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384(0xC032), TLS_DHE_RSA_WITH_AES_256_GCM_SHA384(0x009F), TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256(0xCCAA), TLS_DHE_DSS_WITH_AES_256_GCM_SHA384(0x00A3), TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256(0xC02F), TLS_RSA_WITH_AES_128_GCM_SHA256(0x009C), TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256(0xC02D), TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256(0xC031), TLS_DHE_RSA_WITH_AES_128_GCM_SHA256(0x009E), TLS_DHE_DSS_WITH_AES_128_GCM_SHA256(0x00A2), TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384(0xC024), TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384(0xC028), TLS_RSA_WITH_AES_256_CBC_SHA256(0x003D), TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384(0xC026), TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384(0xC02A), TLS_DHE_RSA_WITH_AES_256_CBC_SHA256(0x006B), TLS_DHE_DSS_WITH_AES_256_CBC_SHA256(0x006A), TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA(0xC00A), TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA(0xC014), TLS_RSA_WITH_AES_256_CBC_SHA(0x0035), TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA(0xC005), TLS_ECDH_RSA_WITH_AES_256_CBC_SHA(0xC00F), TLS_DHE_RSA_WITH_AES_256_CBC_SHA(0x0039), TLS_DHE_DSS_WITH_AES_256_CBC_SHA(0x0038), TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256(0xC023), TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256(0xC027), TLS_RSA_WITH_AES_128_CBC_SHA256(0x003C), TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256(0xC025), TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256(0xC029), TLS_DHE_RSA_WITH_AES_128_CBC_SHA256(0x0067), TLS_DHE_DSS_WITH_AES_128_CBC_SHA256(0x0040), TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA(0xC009), TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA(0xC013), TLS_RSA_WITH_AES_128_CBC_SHA(0x002F), TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA(0xC004), TLS_ECDH_RSA_WITH_AES_128_CBC_SHA(0xC00E), TLS_DHE_RSA_WITH_AES_128_CBC_SHA(0x0033), TLS_DHE_DSS_WITH_AES_128_CBC_SHA(0x0032), TLS_EMPTY_RENEGOTIATION_INFO_SCSV(0x00FF)]",
+  "compression methods" : "00",
+  "extensions"          : [
+    "server_name (0)": {
+      type=host_name (0), value=blue-dromedary.rmq.cloudamqp.com
+    },
+    "status_request (5)": {
+      "certificate status type": ocsp
+      "OCSP status request": {
+        "responder_id": <empty>
+        "request extensions": {
+          <empty>
+        }
+      }
+    },
+    "supported_groups (10)": {
+      "versions": [secp256r1, secp384r1, secp521r1, sect283k1, sect283r1, sect409k1, sect409r1, sect571k1, sect571r1, secp256k1, ffdhe2048, ffdhe3072, ffdhe4096, ffdhe6144, ffdhe8192]
+    },
+    "ec_point_formats (11)": {
+      "formats": [uncompressed]
+    },
+    "signature_algorithms (13)": {
+      "signature schemes": [ecdsa_secp256r1_sha256, ecdsa_secp384r1_sha384, ecdsa_secp521r1_sha512, rsa_pss_rsae_sha256, rsa_pss_rsae_sha384, rsa_pss_rsae_sha512, rsa_pss_pss_sha256, rsa_pss_pss_sha384, rsa_pss_pss_sha512, rsa_pkcs1_sha256, rsa_pkcs1_sha384, rsa_pkcs1_sha512, dsa_sha256, ecdsa_sha224, rsa_sha224, dsa_sha224, ecdsa_sha1, rsa_pkcs1_sha1, dsa_sha1]
+    },
+    "signature_algorithms_cert (50)": {
+      "signature schemes": [ecdsa_secp256r1_sha256, ecdsa_secp384r1_sha384, ecdsa_secp521r1_sha512, rsa_pss_rsae_sha256, rsa_pss_rsae_sha384, rsa_pss_rsae_sha512, rsa_pss_pss_sha256, rsa_pss_pss_sha384, rsa_pss_pss_sha512, rsa_pkcs1_sha256, rsa_pkcs1_sha384, rsa_pkcs1_sha512, dsa_sha256, ecdsa_sha224, rsa_sha224, dsa_sha224, ecdsa_sha1, rsa_pkcs1_sha1, dsa_sha1]
+    },
+    "status_request_v2 (17)": {
+      "cert status request": {
+        "certificate status type": ocsp_multi
+        "OCSP status request": {
+          "responder_id": <empty>
+          "request extensions": {
+            <empty>
+          }
+        }
+      }
+    },
+    "extended_master_secret (23)": {
+      <empty>
+    },
+    "supported_versions (43)": {
+      "versions": [TLSv1.2, TLSv1.1, TLSv1]
+    }
+  ]
+}
+)
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.685 GMT|SSLSocketOutputRecord.java:241|WRITE: TLS12 handshake, length = 345
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.686 GMT|SSLSocketOutputRecord.java:255|Raw write (
+  0000: 16 03 03 01 59 01 00 01   55 03 03 C1 A3 C6 BD 13  ....Y...U.......
+  0010: FD 1E 7C C4 AC EB 48 65   0F 64 C6 9D 9C 53 A8 D3  ......He.d...S..
+  0020: 0B 22 DA 8A 7F BC 26 2D   2F 1C 1A 00 00 5C C0 2C  ."....&-/....\.,
+  0030: C0 2B CC A9 C0 30 CC A8   00 9D C0 2E C0 32 00 9F  .+...0.......2..
+  0040: CC AA 00 A3 C0 2F 00 9C   C0 2D C0 31 00 9E 00 A2  ...../...-.1....
+  0050: C0 24 C0 28 00 3D C0 26   C0 2A 00 6B 00 6A C0 0A  .$.(.=.&.*.k.j..
+  0060: C0 14 00 35 C0 05 C0 0F   00 39 00 38 C0 23 C0 27  ...5.....9.8.#.'
+  0070: 00 3C C0 25 C0 29 00 67   00 40 C0 09 C0 13 00 2F  .<.%.).g.@...../
+  0080: C0 04 C0 0E 00 33 00 32   00 FF 01 00 00 D0 00 00  .....3.2........
+  0090: 00 25 00 23 00 00 20 62   6C 75 65 2D 64 72 6F 6D  .%.#.. blue-drom
+  00A0: 65 64 61 72 79 2E 72 6D   71 2E 63 6C 6F 75 64 61  edary.rmq.clouda
+  00B0: 6D 71 70 2E 63 6F 6D 00   05 00 05 01 00 00 00 00  mqp.com.........
+  00C0: 00 0A 00 20 00 1E 00 17   00 18 00 19 00 09 00 0A  ... ............
+  00D0: 00 0B 00 0C 00 0D 00 0E   00 16 01 00 01 01 01 02  ................
+  00E0: 01 03 01 04 00 0B 00 02   01 00 00 0D 00 28 00 26  .............(.&
+  00F0: 04 03 05 03 06 03 08 04   08 05 08 06 08 09 08 0A  ................
+  0100: 08 0B 04 01 05 01 06 01   04 02 03 03 03 01 03 02  ................
+  0110: 02 03 02 01 02 02 00 32   00 28 00 26 04 03 05 03  .......2.(.&....
+  0120: 06 03 08 04 08 05 08 06   08 09 08 0A 08 0B 04 01  ................
+  0130: 05 01 06 01 04 02 03 03   03 01 03 02 02 03 02 01  ................
+  0140: 02 02 00 11 00 09 00 07   02 00 04 00 00 00 00 00  ................
+  0150: 17 00 00 00 2B 00 07 06   03 03 03 02 03 01        ....+.........
+)
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.731 GMT|SSLSocketInputRecord.java:458|Raw read (
+  0000: 15 03 03 00 02                                     .....
+)
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.732 GMT|SSLSocketInputRecord.java:213|READ: TLSv1.2 alert, length = 2
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.732 GMT|SSLSocketInputRecord.java:458|Raw read (
+  0000: 02 28                                              .(
+)
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.732 GMT|SSLSocketInputRecord.java:249|READ: TLSv1.2 alert, length = 2
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.734 GMT|Alert.java:238|Received alert message (
+"Alert": {
+  "level"      : "fatal",
+  "description": "handshake_failure"
+}
+)
+javax.net.ssl|ERROR|01|main|2019-06-12 10:11:13.736 GMT|TransportContext.java:312|Fatal (HANDSHAKE_FAILURE): Received fatal alert: handshake_failure (
+"throwable" : {
+  javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+  	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+  	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:117)
+  	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:307)
+  	at java.base/sun.security.ssl.Alert$AlertConsumer.consume(Alert.java:285)
+  	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:180)
+  	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:164)
+  	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1180)
+  	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1091)
+  	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:402)
+  	at java.base/sun.security.ssl.SSLSocketImpl.ensureNegotiated(SSLSocketImpl.java:721)
+  	at java.base/sun.security.ssl.SSLSocketImpl$AppOutputStream.write(SSLSocketImpl.java:998)
+  	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+  	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+  	at java.base/java.io.DataOutputStream.flush(DataOutputStream.java:123)
+  	at com.rabbitmq.client.impl.SocketFrameHandler.sendHeader(SocketFrameHandler.java:160)
+  	at com.rabbitmq.client.impl.SocketFrameHandler.sendHeader(SocketFrameHandler.java:170)
+  	at com.rabbitmq.client.impl.AMQConnection.start(AMQConnection.java:305)
+  	at com.rabbitmq.client.impl.recovery.RecoveryAwareAMQConnectionFactory.newConnection(RecoveryAwareAMQConnectionFactory.java:64)
+  	at com.rabbitmq.client.impl.recovery.AutorecoveringConnection.init(AutorecoveringConnection.java:156)
+  	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1106)
+  	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1063)
+  	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1021)
+  	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1182)
+  	at com.example.cloudamqp.Main.main(Main.java:20)}
+
+)
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.736 GMT|SSLSocketImpl.java:1389|close the underlying socket
+javax.net.ssl|DEBUG|01|main|2019-06-12 10:11:13.736 GMT|SSLSocketImpl.java:1408|close the SSL connection (initiative)
+Exception in thread "main" javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:117)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:307)
+	at java.base/sun.security.ssl.Alert$AlertConsumer.consume(Alert.java:285)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:180)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:164)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1180)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1091)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:402)
+	at java.base/sun.security.ssl.SSLSocketImpl.ensureNegotiated(SSLSocketImpl.java:721)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppOutputStream.write(SSLSocketImpl.java:998)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at java.base/java.io.DataOutputStream.flush(DataOutputStream.java:123)
+	at com.rabbitmq.client.impl.SocketFrameHandler.sendHeader(SocketFrameHandler.java:160)
+	at com.rabbitmq.client.impl.SocketFrameHandler.sendHeader(SocketFrameHandler.java:170)
+	at com.rabbitmq.client.impl.AMQConnection.start(AMQConnection.java:305)
+	at com.rabbitmq.client.impl.recovery.RecoveryAwareAMQConnectionFactory.newConnection(RecoveryAwareAMQConnectionFactory.java:64)
+	at com.rabbitmq.client.impl.recovery.AutorecoveringConnection.init(AutorecoveringConnection.java:156)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1106)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1063)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1021)
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1182)
+	at com.example.cloudamqp.Main.main(Main.java:20)
