@@ -1,8 +1,8 @@
 $ nmap --script ssl-enum-ciphers -p 5671 blue-dromedary.rmq.cloudamqp.com
-Starting Nmap 7.70 ( https://nmap.org ) at 2019-06-12 11:06 CEST
-Nmap scan report for blue-dromedary.rmq.cloudamqp.com (54.77.70.129)
-Host is up (0.052s latency).
-rDNS record for 54.77.70.129: ec2-54-77-70-129.eu-west-1.compute.amazonaws.com
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-01-31 11:38 CET
+Nmap scan report for blue-dromedary.rmq.cloudamqp.com (34.244.43.25)
+Host is up (0.043s latency).
+rDNS record for 34.244.43.25: ec2-34-244-43-25.eu-west-1.compute.amazonaws.com
 
 PORT     STATE SERVICE
 5671/tcp open  amqps
@@ -44,4 +44,4 @@ PORT     STATE SERVICE
 |     cipher preference: server
 |_  least strength: A
 
-Nmap done: 1 IP address (1 host up) scanned in 5.76 seconds<Paste>
+Nmap done: 1 IP address (1 host up) scanned in 3.95 seconds
