@@ -14,7 +14,6 @@ public class Main {
             factory.setUri(uri);
 
             //Recommended settings
-            factory.setRequestedHeartbeat(30);
             factory.setConnectionTimeout(30000);
 
             Connection connection = factory.newConnection();
